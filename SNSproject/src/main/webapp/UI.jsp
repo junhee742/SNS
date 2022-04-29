@@ -26,6 +26,9 @@
 		width: 350px;
 		height: 50px;
 	}
+	.login {
+		<img src="temp/basic.jpeg" alt="기본이미지">
+	}
 
 </style>
 </head>
@@ -43,8 +46,8 @@
 			<form>
 				<input type="text" name=uid value="Username"><br>
 				<input type="password" name=upwd value="0000"><br>
-				<input type="submit" value="로그인"><br>
-				<input type="button" value="회원가입" onclick="Sign_up()">
+				<input type="submit" class="login" value="로그인"><br>
+				<input type="button" class="signUp" value="회원가입" onclick="Sign_up()">
 			</form>
 		</div>
 	</tbody>
