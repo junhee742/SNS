@@ -1,0 +1,112 @@
+{
+  "nbformat": 4,
+  "nbformat_minor": 0,
+  "metadata": {
+    "colab": {
+      "name": "Untitled0.ipynb",
+      "provenance": [],
+      "collapsed_sections": [],
+      "authorship_tag": "ABX9TyMzb0pF3mp1wC0WZQbjFSR2",
+      "include_colab_link": true
+    },
+    "kernelspec": {
+      "name": "python3",
+      "display_name": "Python 3"
+    },
+    "language_info": {
+      "name": "python"
+    }
+  },
+  "cells": [
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "view-in-github",
+        "colab_type": "text"
+      },
+      "source": [
+        "<a href=\"https://colab.research.google.com/github/junhee742/SNS/blob/main/%ED%8C%8C%EC%9D%B4%EC%8D%AC\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>"
+      ]
+    },
+    {
+      "cell_type": "code",
+      "execution_count": null,
+      "metadata": {
+        "colab": {
+          "base_uri": "https://localhost:8080/"
+        },
+        "id": "3OhLZEEfMoAP",
+        "outputId": "c06c6ee8-b362-45d2-bf67-e977aa814c35"
+      },
+      "outputs": [
+        {
+          "output_type": "stream",
+          "name": "stdout",
+          "text": [
+            "hello\n",
+            "행복하다\n",
+            "배가 부르다\n"
+          ]
+        }
+      ],
+      "source": [
+        "print('hello')\n",
+        "print(\"행복하다\")\n",
+        "print('배가 부르다')"
+      ]
+    },
+    {
+      "cell_type": "code",
+      "source": [
+        "1+2\n",
+        "4/2 # 나누기\n",
+        "4//2 # 몫\n",
+        "5%2 # 나머지\n",
+        "2**3 # 제곱"
+      ],
+      "metadata": {
+        "colab": {
+          "base_uri": "https://localhost:8080/"
+        },
+        "id": "NbPHuQqfQGI4",
+        "outputId": "932505e4-2597-407e-d5cc-4d02428ca357"
+      },
+      "execution_count": null,
+      "outputs": [
+        {
+          "output_type": "execute_result",
+          "data": {
+            "text/plain": [
+              "8"
+            ]
+          },
+          "metadata": {},
+          "execution_count": 19
+        }
+      ]
+    },
+    {
+      "cell_type": "markdown",
+      "source": [
+        "파이썬의 특징\n",
+        "1. 문법이 쉽다\n",
+        "2. 가독성이 좋다\n",
+        "3. 무료다\n",
+        "4. 이식성이 좋다\n",
+        "5. 풍부한 라이브러리\n",
+        "  - numpy : 수학, 과학 모듈\n",
+        "  - pandas : 데이터 분석 모듈\n",
+        "  - matplotlib : 시각화 모듈\n",
+        "  - Beautiful Soup : 웹스크래핑 모듈\n",
+        "  - scikit-learn : 머신러닝 모듈\n",
+        "6. 동적타이밍\n",
+        "  - 런타임시에 type 체크하는 동적타이밍을 지원\n",
+        "  - 메모리 관리를 자동\n",
+        "\n"
+      ],
+      "metadata": {
+        "id": "1hMMyukhQPE4"
+      }
+    }
+  ]
+}
